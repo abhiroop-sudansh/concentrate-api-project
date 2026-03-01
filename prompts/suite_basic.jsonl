@@ -1,0 +1,10 @@
+{"id": "basic_01", "category": "basic", "input": "Summarize in one sentence: The quick brown fox jumps over the lazy dog. This sentence contains every letter of the alphabet at least once.", "expect": {"format": "text"}}
+{"id": "basic_02", "category": "basic", "input": "Rewrite this to be more formal: Hey can u send me the report by Friday thx", "expect": {"format": "text"}}
+{"id": "basic_03", "category": "basic", "input": "Classify the sentiment of this review as positive, negative, or neutral: The product arrived late and the packaging was damaged, but the item itself works fine.", "expect": {"format": "text"}}
+{"id": "basic_04", "category": "basic", "input": "Extract action items from this meeting note: We decided to launch next week. John will finalize the docs. Sarah will set up the staging server. Follow up on budget by Friday.", "expect": {"format": "text"}}
+{"id": "basic_05", "category": "basic", "input": "Convert to 3 bullet points: Python is a high-level programming language. It emphasizes readability and has a large standard library. It supports multiple programming paradigms.", "expect": {"format": "text"}}
+{"id": "basic_06", "category": "basic", "input": "In one short paragraph, explain what an API is to a non-technical person.", "expect": {"format": "text"}}
+{"id": "basic_07", "category": "basic", "input": "Correct any spelling or grammar: Their going to the store to buy there groceries.", "expect": {"format": "text"}}
+{"id": "basic_08", "category": "basic", "input": "List exactly three pros of remote work.", "expect": {"format": "text"}}
+{"id": "basic_09", "category": "basic", "input": "What is the main topic of this text? Our Q3 revenue increased by 15% year-over-year. The growth was driven primarily by enterprise subscriptions.", "expect": {"format": "text"}}
+{"id": "basic_10", "category": "basic", "input": "Suggest a short, professional email subject line for: Requesting approval for the new marketing campaign budget by end of week.", "expect": {"format": "text"}}
